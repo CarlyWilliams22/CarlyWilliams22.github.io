@@ -37,11 +37,11 @@ Links to gameplay footage:
 * Gameplay part 1 general gameplay: https://youtu.be/4eHlhcLYxF8
 * Gameplay part 2 dealing with the helper and putting out fires: https://youtu.be/INxgw5u8uFk
 
-# Steal Away
-#### A 3D Museum heist simulator where the player must steal the target item and evade the night guard. Made for the class 3D Games at Grove City College.
+# Steal Away - 2021
+#### A 3D museum heist simulator where the player must steal the target item and evade the night guard. Made for the class 3D Games at Grove City College.
 ![Steal Away man in the van security cameras](Steal Away_Moment.jpg)
 
-Break into a museam to commit a hiest!
+Break into a museum to commit a hiest!
 ![Steal away look at a room](Steal Away_Moment(3).jpg)
 
 Take control of the man in the van! Unlock doors and keep an eye out for the security guard on the cameras.
@@ -51,3 +51,13 @@ Just don't get caught!
 ![Steal Away Guard](Steal Away_Moment(4).jpg)
 
 Link to gameplay:https://youtu.be/24HUG7BPm-I
+
+# The Disk - (Ongoing)
+#### A solo developed 3D horror game where the player finds themselves facing the consequences of a cursed game disk. This project is still in development and is made independently.
+
+Screenshots from development.
+![The Disk Disk on the Car](TheDiskCarScreenshot.jpg)
+
+![The Disk Computer](TheDiskComputerScreenshot.jpg)
+
+![The Disk The Dungeon](TheDiskDungeon.jpg)

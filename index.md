@@ -16,9 +16,9 @@ Be careful not to let him blind you!
 ![Silent Night Final Boss Blinded Screenshot](SilentNight Final Boss_Moment(2).jpg)
 
 Links to gameplay footage:
-* Level 1 Gameplay: https://youtu.be/sZoxhyOAAbg
-* Level 2 Gameplay: https://youtu.be/CKJ2gBoYZo4
-* Level 3 Gameplay: https://youtu.be/fErtqAiskfk
+* Level 1 Gameplay: [Silent Night Level 1](https://youtu.be/sZoxhyOAAbg)
+* Level 2 Gameplay: [Silent Night Level 2](https://youtu.be/CKJ2gBoYZo4)
+* Level 3 Gameplay: [Silent Night Level 3](https://youtu.be/fErtqAiskfk)
 
 # Meal Master - 2021
 #### A 3D restaurant simulator where the player would prepare various food items to deliver to customers. Made for the class 3D Games at Grove City College.
@@ -34,8 +34,8 @@ Do your best to keep everything running smoothly.
 ![Meal Master Fire Screenshot](MealMaster 2021-09-26 03-26-45_Moment(3).jpg)
 
 Links to gameplay footage:
-* Gameplay part 1 general gameplay: https://youtu.be/4eHlhcLYxF8
-* Gameplay part 2 dealing with the helper and putting out fires: https://youtu.be/INxgw5u8uFk
+* Gameplay part 1 general gameplay: [Meal Master pt 1](https://youtu.be/4eHlhcLYxF8)
+* Gameplay part 2 dealing with the helper and putting out fires: [Meal Master pt 2](https://youtu.be/INxgw5u8uFk)
 
 # Steal Away - 2021
 #### A 3D museum heist simulator where the player must steal the target item and evade the night guard. Made for the class 3D Games at Grove City College.
@@ -50,7 +50,7 @@ Take control of the man in the van! Unlock doors and keep an eye out for the sec
 Just don't get caught!
 ![Steal Away Guard](Steal Away_Moment(4).jpg)
 
-Link to gameplay:https://youtu.be/24HUG7BPm-I
+Link to gameplay:[Steal Away gameplay](https://youtu.be/24HUG7BPm-I)
 
 # The Disk - (Ongoing)
 #### A solo developed 3D horror game where the player finds themselves facing the consequences of a cursed game disk. This project is still in development and is made independently.

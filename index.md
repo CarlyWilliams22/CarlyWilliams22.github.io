@@ -39,6 +39,8 @@ Links to gameplay footage:
 * Gameplay part 1 general gameplay: [Meal Master pt 1](https://youtu.be/4eHlhcLYxF8)
 * Gameplay part 2 dealing with the helper and putting out fires: [Meal Master pt 2](https://youtu.be/INxgw5u8uFk)
 
+Link to GitHub repository: [https://github.com/CarlyWilliams22/MealMaster](https://github.com/CarlyWilliams22/MealMaster)
+
 # Steal Away - 2021
 #### A 3D museum heist simulator where the player must steal the target item and evade the night guard. Made for the class 3D Games at Grove City College.
 ![Steal Away man in the van security cameras](Steal Away_Moment.jpg)
@@ -53,6 +55,8 @@ Just don't get caught!
 ![Steal Away Guard](Steal Away_Moment(4).jpg)
 
 Link to gameplay:[Steal Away gameplay](https://youtu.be/24HUG7BPm-I)
+
+Link to GitHub repository: [https://github.com/CarlyWilliams22/Steal-Away](https://github.com/CarlyWilliams22/Steal-Away)
 
 # The Disk - (Ongoing)
 #### A solo developed 3D horror game where the player finds themselves facing the consequences of a cursed game disk. This project is still in development and is made independently.

@@ -20,6 +20,8 @@ Links to gameplay footage:
 * Level 2 Gameplay: [Silent Night Level 2](https://youtu.be/CKJ2gBoYZo4)
 * Level 3 Gameplay: [Silent Night Level 3](https://youtu.be/fErtqAiskfk)
 
+Link to GitHub repository: [https://github.com/CarlyWilliams22/SilentNight](https://github.com/CarlyWilliams22/SilentNight)
+
 # Meal Master - 2021
 #### A 3D restaurant simulator where the player would prepare various food items to deliver to customers. Made for the class 3D Games at Grove City College.
 ![Meal Master Serve a Burger Screenshot](MealMaster 2021-09-26 03-26-45_Moment(4).jpg)
